@@ -1,0 +1,48 @@
+{
+  "name": "@tsnewswire/press-release-toolkit",
+  "version": "1.0.0",
+  "description": "Open-source JSON-LD schema generator and templates for SEO-friendly press releases (NewsArticle + Organization structured data).",
+  "type": "module",
+  "main": "src/schema-generator.js",
+  "exports": {
+    ".": "./src/schema-generator.js"
+  },
+  "bin": {
+    "pr-schema": "src/cli.js"
+  },
+  "files": [
+    "src",
+    "templates",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "generate": "node src/cli.js",
+    "example": "node src/cli.js examples/sample-release.json"
+  },
+  "keywords": [
+    "press-release",
+    "schema",
+    "json-ld",
+    "structured-data",
+    "newsarticle",
+    "seo",
+    "google-news",
+    "digital-pr",
+    "rich-results"
+  ],
+  "homepage": "https://tsnewswire.com",
+  "author": "TS Newswire (https://tsnewswire.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsnewswire/press-release-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tsnewswire/press-release-toolkit/issues"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}

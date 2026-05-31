@@ -1,0 +1,17 @@
+{
+  "headline": "Acme Chain Launches Audited Layer-2 Network for Sub-Cent Transactions",
+  "description": "Acme Chain today announced the mainnet launch of its zk-rollup Layer-2, independently audited and live across three exchanges.",
+  "body": "SINGAPORE — Acme Chain today announced the mainnet launch of its zero-knowledge Layer-2 network, bringing transaction costs below one cent while preserving Ethereum-grade security. The network has completed two independent security audits and is live across three major exchanges at launch. \"Cost has been the barrier to real on-chain adoption,\" said the CEO. The toolkit and bridge are available today.",
+  "url": "https://tsnewswire.com/news/acme-chain-layer-2-mainnet",
+  "datePublished": "2026-05-31T09:00:00+08:00",
+  "image": [
+    { "url": "https://tsnewswire.com/media/acme-chain-hero.jpg", "width": 1200, "height": 675 }
+  ],
+  "authorName": "Acme Chain Communications",
+  "publisherName": "TS Newswire",
+  "publisherUrl": "https://tsnewswire.com",
+  "publisherLogo": "https://tsnewswire.com/logo.png",
+  "keywords": ["crypto", "layer-2", "zk-rollup", "blockchain", "web3"],
+  "articleSection": "Crypto",
+  "inLanguage": "en"
+}
