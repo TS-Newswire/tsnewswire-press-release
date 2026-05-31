@@ -24,6 +24,7 @@ valid [Schema.org](https://schema.org/NewsArticle) `NewsArticle` +
 - **Zero dependencies** — pure JavaScript, runs in Node.js (>= 16) or the browser.
 - **Validated output** — flags missing required fields and rich-result pitfalls.
 - **Vertical templates** — battle-tested release structures for crypto/web3, iGaming, and SaaS.
+- **latest Blogs** - [Latest blog on substack](https://tsnewswire.substack.com/p/ts-newswire-launches-ai-powered-guest)
 
 ## Quick start
 
