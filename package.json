@@ -37,10 +37,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tsnewswire/press-release-toolkit.git"
+    "url": "https://github.com/vivekSm/press-release-toolkit.git"
   },
   "bugs": {
-    "url": "https://github.com/tsnewswire/press-release-toolkit/issues"
+    "url": "https://github.com/vivekSm/press-release-toolkit/issues"
   },
   "engines": {
     "node": ">=16"

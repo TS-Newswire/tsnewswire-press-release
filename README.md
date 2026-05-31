@@ -29,7 +29,7 @@ valid [Schema.org](https://schema.org/NewsArticle) `NewsArticle` +
 
 ```bash
 # Clone and run against the bundled example
-git clone https://github.com/tsnewswire/press-release-toolkit.git
+git clone https://github.com/vivekSm/press-release-toolkit.git
 cd press-release-toolkit
 npm run example
 ```

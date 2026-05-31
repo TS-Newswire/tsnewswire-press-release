@@ -17,7 +17,7 @@ welcome.
 No build step and no dependencies.
 
 ```bash
-git clone https://github.com/tsnewswire/press-release-toolkit.git
+git clone https://github.com/vivekSm/press-release-toolkit.git
 cd press-release-toolkit
 npm test          # node --test
 npm run example   # sanity-check the generator against the sample input
