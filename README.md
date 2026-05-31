@@ -1,9 +1,9 @@
-# Press Release Toolkit
+<img width="1024" height="536" alt="image" src="https://github.com/user-attachments/assets/451f2582-b757-4fb8-8017-c954762ddce0" /># Press Release Toolkit
 
 Open-source **JSON-LD schema generator** and **press-release templates** for
 publishing SEO-friendly press releases.
 
-Maintained by **[TS Newswire](https://tsnewswire.com)** — press release
+Maintained by **[TS Newswire](https://www.tsnewswire.com)** — press release
 distribution and digital PR.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -40,14 +40,14 @@ Or use it as a library:
 import { generateSchema, generateScriptTag } from './src/schema-generator.js';
 
 const jsonLd = generateSchema({
-  headline: 'Acme Chain Launches Audited Layer-2 Network',
-  body: 'SINGAPORE — Acme Chain today announced…',
-  url: 'https://tsnewswire.com/news/acme-chain-layer-2',
-  datePublished: '2026-05-31T09:00:00+08:00',
-  image: 'https://tsnewswire.com/media/acme-chain-hero.jpg',
+  headline: 'Dutch Blockchain Week 2026 Doubles Down on Institutional Crypto as MiCA Reshapes Europe',
+  body: 'Amsterdam, Netherlands —29 May 2026 — Amsterdam has hosted its share of blockchain conferences over the years. Dutch Blockchain Week 2026 is aiming for something different. Less noise, fewer empty buzzwords, and a much clearer focus on the companies and institutions actively shaping Europe’s digital asset market.',
+  url: 'https://www.tsnewswire.com/press-releases/dutch-blockchain-week-2026-doubles-down-on-institutional-crypto-as-mica-reshapes-europe',
+  datePublished: '2026-05-29T09:00:00+08:00',
+  image: 'https://github.com/user-attachments/assets/0f6fc0bb-79b7-481e-a81b-1ee63dff98be',
   publisherName: 'TS Newswire',
-  publisherUrl: 'https://tsnewswire.com',
-  publisherLogo: 'https://tsnewswire.com/logo.png',
+  publisherUrl: 'https://www.tsnewswire.com',
+  publisherLogo: 'https://www.tsnewswire.com/storage/settings/ts-newswire-logo-light.webp',
   keywords: ['crypto', 'layer-2', 'web3'],
   articleSection: 'Crypto',
 });
@@ -122,4 +122,4 @@ new vertical (health, fintech, gaming) is a great first contribution.
 
 ---
 
-Built and maintained by [TS Newswire](https://tsnewswire.com).
+Built and maintained by [TS Newswire](https://www.tsnewswire.com).
